@@ -60,7 +60,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 📝 [ToDo App](https://github.com/shoaibbhattidev) | Command-line app to add, view, update & delete tasks | `Python` |
+| 📝 [ToDo App](https://github.com/shoaibbhattidev/) | Command-line app to add, view, update & delete tasks | `Python` |
 | 💰 [Expense Tracker](https://github.com/shoaibbhattidev) | Track income, expenses & balance | `Python` |
 | 🔐 [Password Generator](https://github.com/shoaibbhattidev) | Generate strong, secure custom passwords | `Python` |
 | 🧠 [General Knowledge Quiz](https://github.com/shoaibbhattidev) | Pakistan-focused trivia quiz app | `Python` |
