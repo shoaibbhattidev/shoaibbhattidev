@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Shoaib Bhatt</h1>
 <h3 align="center">🚀 Passionate Developer | Builder | Learner</h3>
 
 <p align="center">
@@ -10,20 +10,20 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/shoaibbhattidev"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/shoaibbhattidev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://shoaibbhatti.netlify.app"><img src="https://img.shields.io/badge/portfolio-1DA1F2?style=for-the-badge&logo=portfolio"></a>
+  <a href="mailto:shoh7844@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **Your Project**
-- 🌱 Learning: **Tech / Framework**
+- 🔭 Currently working on: **A django project**
+- 🌱 Learning: **Tech / DJANGO**
 - 💬 Ask me about: **Anything dev-related**
-- ⚡ Fun fact: *Something cool about you*
+- ⚡ Fun fact: **DEVLOPER**
 
 ---
 
