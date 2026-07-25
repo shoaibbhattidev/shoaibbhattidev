@@ -38,12 +38,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibbhattidev&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibbhattidev&theme=radical" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibbhattidev&layout=compact&theme=radical">
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=shoaibbhattidev&theme=radical&no-frame=true&row=1&column=6">
 </p>
 
 ---
@@ -59,23 +59,25 @@
 ## 📂 Featured Projects
 
 ### 🚀 Project One
-- 🔗 https://github.com/shoaibbhattidev/project1  
+- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-1
 - 💡 Short description of what it does
-
+    go and checkout
+    
 ### ⚡ Project Two
-- 🔗 https://github.com/shoaibbhattidev/project2  
+- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-2
 - 💡 What makes it cool
+    go and checkout 
 
 ### 🧠 Project Three
-- 🔗 https://github.com/shoaibbhattidev/project3  
+- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-3
 - 💡 Key feature
-
+    go and checkout
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibbhattidev&theme=react-dark">
 </p>
 
 ---
@@ -91,7 +93,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/shoaibbhattidev/shoaibbhattidev/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
