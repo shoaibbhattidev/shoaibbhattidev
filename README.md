@@ -59,15 +59,15 @@
 ## 📂 Featured Projects
 
 ### 🚀 Project One
-- 🔗 https://github.com/YOUR_USERNAME/project1  
+- 🔗 https://github.com/shoaibbhattidev/project1  
 - 💡 Short description of what it does
 
 ### ⚡ Project Two
-- 🔗 https://github.com/YOUR_USERNAME/project2  
+- 🔗 https://github.com/shoaibbhattidev/project2  
 - 💡 What makes it cool
 
 ### 🧠 Project Three
-- 🔗 https://github.com/YOUR_USERNAME/project3  
+- 🔗 https://github.com/shoaibbhattidev/project3  
 - 💡 Key feature
 
 ---
