@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoaib Bhatt</h1>
+<h1 align="center">Hi 👋, I'm Shoaib Bhatti</h1>
 <h3 align="center">🚀 Passionate Developer | Builder | Learner</h3>
 
 <p align="center">
