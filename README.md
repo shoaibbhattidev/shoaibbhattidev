@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/shoaibbhattidev"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
   <a href="https://linkedin.com/in/shoaibbhattidev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://shoaibbhatti.netlify.app"><img src="https://img.shields.io/badge/portfolio-1DA1F2?style=for-the-badge&logo=portfolio"></a>
+  <a href="https://shoaibbhatti.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" ></a>
   <a href="mailto:shoh7844@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
