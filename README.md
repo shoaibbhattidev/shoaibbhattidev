@@ -58,9 +58,14 @@
 
 ## 📂 Featured Projects
 
+### portfolio
+- 🔗 https://github.com/shoaibbhattidev/portfolio
+**Live at**
+- 🔗 https://shoaibbhatti.netlify.app
+
 ### 🚀 Project One
 - 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-1
-- 💡 Short description of what it does
+- 💡 what it does
     go and checkout
     
 ### ⚡ Project Two
