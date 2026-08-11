@@ -63,20 +63,19 @@
 **Live at**
 - 🔗 https://shoaibbhatti.netlify.app
 
+### Weather-App
+- 🔗 https://github.com/shoaibbhattidev/Weather-App
+**Live at**
+- 🔗 https://weather-app-aura.vercel.app/
+
 ### 🚀 Project One
 - 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-1
-- 💡 what it does
-    go and checkout
     
 ### ⚡ Project Two
 - 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-2
-- 💡 What makes it cool
-    go and checkout 
 
 ### 🧠 Project Three
 - 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-3
-- 💡 Key feature
-    go and checkout
 ---
 
 ## 📈 Activity Graph
