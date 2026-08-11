@@ -67,15 +67,10 @@
 - 🔗 https://github.com/shoaibbhattidev/Weather-App
 **Live at**
 - 🔗 https://weather-app-aura.vercel.app/
-
-### 🚀 Project One
-- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-1
     
-### ⚡ Project Two
-- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-2
+### ⚡ python internship projects at Decode Labs
+- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship
 
-### 🧠 Project Three
-- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship/tree/main/project-3
 ---
 
 ## 📈 Activity Graph
