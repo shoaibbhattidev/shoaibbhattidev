@@ -14,9 +14,6 @@
   <a href="https://shoaibbhatti.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:shoh7844@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 <p>
@@ -31,25 +28,25 @@
 
 I'm a Pakistan-based developer focused on building practical, production-oriented web applications.
 
-My current development path combines **React on the frontend** with **Python/FastAPI on the backend**, while continuing to strengthen JavaScript, TypeScript, databases, APIs, Linux, deployment, and software architecture.
+My development path combines **React on the frontend** with **Python/FastAPI on the backend**, while continuing to strengthen JavaScript, TypeScript, databases, APIs, Linux, deployment, and software architecture.
 
-I prefer building complete products rather than only small demos — from the UI and API layer to databases, deployment, automation, and documentation.
+I prefer building complete products rather than only small demos — from UI and APIs to databases, deployment, automation, and documentation.
 
 ### What I'm focused on
 
 - Building responsive, modern React applications
 - Learning and building APIs with **FastAPI**
 - Working with **PostgreSQL, MySQL, and Supabase**
-- Creating SaaS-style applications with authentication and multi-user architecture
+- Creating SaaS applications with authentication and multi-user architecture
 - Linux-based development and deployment
 - Open-source projects and reusable developer tools
 - Improving UI/UX, performance, accessibility, and privacy
 
 ---
 
-## Current Projects
+## Current Project
 
-### 1. Pixel Forge — Image Resizer & Optimizer
+### Pixel Forge — Image Resizer & Optimizer
 
 A privacy-first browser-based image processing application.
 
@@ -78,62 +75,13 @@ A privacy-first browser-based image processing application.
 
 ---
 
-### 2. Easy Shopping / ShopEase Pakistan
+## Next Project
 
-A Pakistan-focused e-commerce/store project designed around product importing, automated pricing, customer ordering, and online store management.
+### Cloud POS / Pharmacy Management SaaS
 
-**Planned/current capabilities:**
-- Markaz product CSV importing
-- Automatic profit calculation
-- Product management
-- Customer checkout
-- Order management
-- Supabase database/auth integration
-- Backend/serverless order processing
-- Email-based order notifications
-- Customer accounts
-- Admin functionality
+My **next major project** is a cloud-based, multi-tenant POS and pharmacy/store management platform.
 
-**Stack:** React/TypeScript, Supabase, Vercel serverless functions
-
-<p>
-  <a href="https://github.com/shoaibbhattidev/shopease-pakistan">
-    <img src="https://img.shields.io/badge/View%20Repository-ShopEase-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ShopEase repository">
-  </a>
-</p>
-
----
-
-### 3. SMM Order Platform
-
-A PHP/MySQL-based social media services ordering platform with provider API integration.
-
-**Current development areas:**
-- Service catalog
-- Customer orders
-- Provider API integration
-- API order IDs and status synchronization
-- Automated status/order processing
-- Payment instructions
-- Customer support
-- Terms and policy pages
-- Cron-based automation
-
-**Stack:** PHP, MySQL, HTML, CSS, JavaScript, REST APIs
-
-<p>
-  <a href="https://github.com/shoaibbhattidev/order-repairing">
-    <img src="https://img.shields.io/badge/View%20Repository-SMM%20Platform-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="SMM platform repository">
-  </a>
-</p>
-
----
-
-### 4. Cloud POS / Pharmacy Management SaaS
-
-A planned multi-tenant cloud application for shops and pharmacies.
-
-**Architecture direction:**
+**Planned architecture:**
 
 ```text
 React Frontend
@@ -148,7 +96,7 @@ Cloud Infrastructure
 **Planned features:**
 - Shop-owner accounts
 - Multi-shop architecture
-- Product/inventory management
+- Product and inventory management
 - Stock tracking
 - POS sales
 - Customer management
@@ -157,28 +105,11 @@ Cloud Infrastructure
 - Role-based access
 - Cloud database
 - API-first architecture
+- Scalable SaaS foundation
 
 ---
 
-### 5. Telegram Automation Bot
-
-A large Python Telegram automation project with API integrations, SQLite storage, asynchronous requests, browser automation, and OTP/data processing.
-
-**Technologies explored:**
-- Python
-- python-telegram-bot
-- SQLite
-- aiohttp
-- Requests
-- Playwright
-- BeautifulSoup
-- Langdetect
-
-This project has also helped me work with asynchronous programming, APIs, automation, database state, and long-running bot processes.
-
----
-
-## Previous / Other Projects
+## Previous / Other Public Projects
 
 ### Weather App
 
@@ -186,13 +117,13 @@ A responsive weather application using a weather API and modern web UI.
 
 **Stack:** React, Vite, JavaScript, OpenWeather API
 
-**Live:** [weather-app-aura.vercel.app](https://weather-app-aura.vercel.app/)
+**Live:** https://weather-app-aura.vercel.app/
 
 ### Decode Labs Projects
 
 Python internship/practice projects including beginner-to-intermediate programming applications.
 
-**Repository:** [DecodeLabs-Internship](https://github.com/shoaibbhattidev/DecodeLabs-Internship)
+**Repository:** https://github.com/shoaibbhattidev/DecodeLabs-Internship
 
 ---
 
@@ -311,13 +242,11 @@ Scalable SaaS Architecture
 
 ---
 
-## Featured Repositories
+## Featured Public Repositories
 
 | Project | Description | Technologies |
 |---|---|---|
 | **Pixel Forge** | Browser image optimizer | React, Vite, JS |
-| **ShopEase Pakistan** | E-commerce/store platform | React, Supabase |
-| **Order Repairing** | SMM/API platform work | PHP, MySQL |
 | **Weather App** | Weather dashboard | React, API |
 | **Decode Labs** | Python practice/internship work | Python |
 
