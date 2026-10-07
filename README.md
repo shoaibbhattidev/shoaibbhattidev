@@ -1,107 +1,372 @@
-<h1 align="center">Hi 👋, I'm Shoaib Bhatti</h1>
-<h3 align="center">🚀 Passionate Developer | Builder | Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Stuff;Always+Learning&center=true&width=500&height=50">
+# Hi, I'm Shoaib Bhatti
+
+### Full-Stack Developer • Builder • Open-Source Enthusiast
+
+<p>
+  <a href="https://github.com/shoaibbhattidev">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/shoaibbhattidev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://shoaibbhatti.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:shoh7844@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;React+%2B+Python+developer;Learning+FastAPI+%26+cloud+architecture;Turning+ideas+into+real+products" alt="Typing animation">
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm a Pakistan-based developer focused on building practical, production-oriented web applications.
+
+My current development path combines **React on the frontend** with **Python/FastAPI on the backend**, while continuing to strengthen JavaScript, TypeScript, databases, APIs, Linux, deployment, and software architecture.
+
+I prefer building complete products rather than only small demos — from the UI and API layer to databases, deployment, automation, and documentation.
+
+### What I'm focused on
+
+- Building responsive, modern React applications
+- Learning and building APIs with **FastAPI**
+- Working with **PostgreSQL, MySQL, and Supabase**
+- Creating SaaS-style applications with authentication and multi-user architecture
+- Linux-based development and deployment
+- Open-source projects and reusable developer tools
+- Improving UI/UX, performance, accessibility, and privacy
+
+---
+
+## Current Projects
+
+### 1. Pixel Forge — Image Resizer & Optimizer
+
+A privacy-first browser-based image processing application.
+
+**Features include:**
+- Multi-image drag & drop
+- Resize, crop, fit, fill, and stretch
+- JPEG, PNG, WebP, and AVIF conversion
+- Quality and target-size compression
+- Social-media presets
+- Metadata viewer
+- JPEG EXIF controls
+- Batch optimization
+- ZIP downloads
+- Local browser processing
+- Responsive UI
+- Light/dark theme with animated toggle
+- Accessibility and reduced-motion support
+
+**Stack:** React, Vite, JavaScript, Bootstrap, Tailwind CSS, JSZip, ExifReader, piexifjs, OxiPNG, AVIF
+
+<p>
+  <a href="https://github.com/shoaibbhattidev/pixel-forge">
+    <img src="https://img.shields.io/badge/View%20Repository-Pixel%20Forge-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Pixel Forge repository">
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with me
+### 2. Easy Shopping / ShopEase Pakistan
 
-<p align="center">
-  <a href="https://github.com/shoaibbhattidev"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/shoaibbhattidev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://shoaibbhatti.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" ></a>
-  <a href="mailto:shoh7844@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+A Pakistan-focused e-commerce/store project designed around product importing, automated pricing, customer ordering, and online store management.
+
+**Planned/current capabilities:**
+- Markaz product CSV importing
+- Automatic profit calculation
+- Product management
+- Customer checkout
+- Order management
+- Supabase database/auth integration
+- Backend/serverless order processing
+- Email-based order notifications
+- Customer accounts
+- Admin functionality
+
+**Stack:** React/TypeScript, Supabase, Vercel serverless functions
+
+<p>
+  <a href="https://github.com/shoaibbhattidev/shopease-pakistan">
+    <img src="https://img.shields.io/badge/View%20Repository-ShopEase-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ShopEase repository">
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+### 3. SMM Order Platform
 
-- 🔭 Currently working on: **A django project**
-- 🌱 Learning: **Tech / DJANGO**
-- 💬 Ask me about: **Anything dev-related**
-- ⚡ Fun fact: **DEVLOPER**
+A PHP/MySQL-based social media services ordering platform with provider API integration.
 
----
+**Current development areas:**
+- Service catalog
+- Customer orders
+- Provider API integration
+- API order IDs and status synchronization
+- Automated status/order processing
+- Payment instructions
+- Customer support
+- Terms and policy pages
+- Cron-based automation
 
-## 🛠️ Tech Stack
+**Stack:** PHP, MySQL, HTML, CSS, JavaScript, REST APIs
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,java,html,css,git,github,docker" />
+<p>
+  <a href="https://github.com/shoaibbhattidev/order-repairing">
+    <img src="https://img.shields.io/badge/View%20Repository-SMM%20Platform-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="SMM platform repository">
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 4. Cloud POS / Pharmacy Management SaaS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibbhattidev&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibbhattidev&theme=radical" height="150">
+A planned multi-tenant cloud application for shops and pharmacies.
+
+**Architecture direction:**
+
+```text
+React Frontend
+      ↓
+FastAPI Backend
+      ↓
+PostgreSQL
+      ↓
+Cloud Infrastructure
+```
+
+**Planned features:**
+- Shop-owner accounts
+- Multi-shop architecture
+- Product/inventory management
+- Stock tracking
+- POS sales
+- Customer management
+- Purchase records
+- Reports and analytics
+- Role-based access
+- Cloud database
+- API-first architecture
+
+---
+
+### 5. Telegram Automation Bot
+
+A large Python Telegram automation project with API integrations, SQLite storage, asynchronous requests, browser automation, and OTP/data processing.
+
+**Technologies explored:**
+- Python
+- python-telegram-bot
+- SQLite
+- aiohttp
+- Requests
+- Playwright
+- BeautifulSoup
+- Langdetect
+
+This project has also helped me work with asynchronous programming, APIs, automation, database state, and long-running bot processes.
+
+---
+
+## Previous / Other Projects
+
+### Weather App
+
+A responsive weather application using a weather API and modern web UI.
+
+**Stack:** React, Vite, JavaScript, OpenWeather API
+
+**Live:** [weather-app-aura.vercel.app](https://weather-app-aura.vercel.app/)
+
+### Decode Labs Projects
+
+Python internship/practice projects including beginner-to-intermediate programming applications.
+
+**Repository:** [DecodeLabs-Internship](https://github.com/shoaibbhattidev/DecodeLabs-Internship)
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" alt="Frontend technologies">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibbhattidev&layout=compact&theme=radical">
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,php" alt="Backend technologies">
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" alt="Database technologies">
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode" alt="Development tools">
 </p>
 
 ---
 
-## 🏆 Achievements
+## Development Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaibbhattidev&theme=radical&no-frame=true&row=1&column=6">
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### Build First
+I learn technologies by building real applications and solving real problems.
 
-## 📂 Featured Projects
+</td>
+<td width="50%">
 
-### portfolio
-- 🔗 https://github.com/shoaibbhattidev/portfolio
-**Live at**
-- 🔗 https://shoaibbhatti.netlify.app
+### Product Mindset
+I care about usability, reliability, deployment, and maintainability — not only making the code work.
 
-### Weather-App
-- 🔗 https://github.com/shoaibbhattidev/Weather-App
-**Live at**
-- 🔗 https://weather-app-aura.vercel.app/
-    
-### ⚡ python internship projects at Decode Labs
-- 🔗 https://github.com/shoaibbhattidev/DecodeLabs-Internship
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### Keep Learning
+My current focus is moving from frontend development toward full-stack architecture.
 
-## 📈 Activity Graph
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibbhattidev&theme=react-dark">
-</p>
+### Open Source
+I document projects, publish reusable work, and use open-source technologies whenever possible.
 
----
-
-## 🎵 Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## Current Learning Roadmap
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shoaibbhattidev/shoaibbhattidev/output/github-contribution-grid-snake.svg">
-</p>
+```text
+JavaScript
+   ↓
+React
+   ↓
+TypeScript
+   ↓
+Python
+   ↓
+FastAPI
+   ↓
+PostgreSQL
+   ↓
+Authentication & APIs
+   ↓
+Cloud / Deployment
+   ↓
+Scalable SaaS Architecture
+```
 
 ---
 
-## 💖 Support Me
+## GitHub Analytics
 
-⭐ Star my repositories if you like my work!  
-🤝 Open to collaborations  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shoaibbhattidev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibbhattidev&layout=compact&hide_border=true&theme=github_dark" height="180" alt="Top languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shoaibbhattidev&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+
+</div>
 
 ---
 
-<p align="center">🔥 Let's build something amazing 🚀</p>
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibbhattidev&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity">
+
+</div>
+
+---
+
+## Featured Repositories
+
+| Project | Description | Technologies |
+|---|---|---|
+| **Pixel Forge** | Browser image optimizer | React, Vite, JS |
+| **ShopEase Pakistan** | E-commerce/store platform | React, Supabase |
+| **Order Repairing** | SMM/API platform work | PHP, MySQL |
+| **Weather App** | Weather dashboard | React, API |
+| **Decode Labs** | Python practice/internship work | Python |
+
+---
+
+## Engineering Interests
+
+- Full-stack web development
+- React application architecture
+- REST APIs
+- FastAPI
+- PostgreSQL
+- SaaS architecture
+- Authentication and authorization
+- Database design
+- Cloud deployment
+- Linux
+- Automation
+- Image processing
+- API integrations
+- Performance optimization
+- Responsive UI/UX
+- Accessibility
+- Privacy-first web applications
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/shoaibbhattidev">
+  <img src="https://img.shields.io/badge/GitHub-Shoaib%20Bhatti-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/shoaibbhattidev">
+  <img src="https://img.shields.io/badge/LinkedIn-Shoaib%20Bhatti-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://shoaibbhatti.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building. Learning. Shipping.
+
+**Turning ideas into useful software, one project at a time.**
+
+</div>
