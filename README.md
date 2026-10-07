@@ -232,7 +232,7 @@ Scalable SaaS Architecture
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibbhattidev&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibbhattidev&theme=github-compact&hide_border=true" alt="GitHub contribution activity">
 
 </div>
 
