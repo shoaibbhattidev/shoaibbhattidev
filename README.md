@@ -46,40 +46,9 @@ I prefer building complete products rather than only small demos — from UI and
 
 ## Current Project
 
-### Pixel Forge — Image Resizer & Optimizer
-
-A privacy-first browser-based image processing application.
-
-**Features include:**
-- Multi-image drag & drop
-- Resize, crop, fit, fill, and stretch
-- JPEG, PNG, WebP, and AVIF conversion
-- Quality and target-size compression
-- Social-media presets
-- Metadata viewer
-- JPEG EXIF controls
-- Batch optimization
-- ZIP downloads
-- Local browser processing
-- Responsive UI
-- Light/dark theme with animated toggle
-- Accessibility and reduced-motion support
-
-**Stack:** React, Vite, JavaScript, Bootstrap, Tailwind CSS, JSZip, ExifReader, piexifjs, OxiPNG, AVIF
-
-<p>
-  <a href="https://github.com/shoaibbhattidev/pixel-forge">
-    <img src="https://img.shields.io/badge/View%20Repository-Pixel%20Forge-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Pixel Forge repository">
-  </a>
-</p>
-
----
-
-## Next Project
-
 ### Cloud POS / Pharmacy Management SaaS
 
-My **next major project** is a cloud-based, multi-tenant POS and pharmacy/store management platform.
+My **current major project** is a cloud-based, multi-tenant POS and pharmacy/store management platform.
 
 **Planned architecture:**
 
@@ -110,6 +79,33 @@ Cloud Infrastructure
 ---
 
 ## Previous / Other Public Projects
+
+### Pixel Forge — Image Resizer & Optimizer
+
+A privacy-first browser-based image processing application.
+
+**Features include:**
+- Multi-image drag & drop
+- Resize, crop, fit, fill, and stretch
+- JPEG, PNG, WebP, and AVIF conversion
+- Quality and target-size compression
+- Social-media presets
+- Metadata viewer
+- JPEG EXIF controls
+- Batch optimization
+- ZIP downloads
+- Local browser processing
+- Responsive UI
+- Light/dark theme with animated toggle
+- Accessibility and reduced-motion support
+
+**Stack:** React, Vite, JavaScript, Bootstrap, Tailwind CSS, JSZip, ExifReader, piexifjs, OxiPNG, AVIF
+
+<p>
+  <a href="https://github.com/shoaibbhattidev/pixel-forge">
+    <img src="https://img.shields.io/badge/View%20Repository-Pixel%20Forge-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Pixel Forge repository">
+  </a>
+</p>
 
 ### Weather App
 
@@ -246,6 +242,7 @@ Scalable SaaS Architecture
 
 | Project | Description | Technologies |
 |---|---|---|
+| **Cloud POS / Pharmacy SaaS** | Current multi-tenant SaaS project | React, FastAPI, PostgreSQL |
 | **Pixel Forge** | Browser image optimizer | React, Vite, JS |
 | **Weather App** | Weather dashboard | React, API |
 | **Decode Labs** | Python practice/internship work | Python |
