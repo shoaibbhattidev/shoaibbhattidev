@@ -232,7 +232,7 @@ Scalable SaaS Architecture
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibbhattidev&theme=github-compact&hide_border=true" alt="GitHub contribution activity">
+[![Shoaib Bhatti's GitHub contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoaibbhattidev&theme=github_dark)](https://github.com/shoaibbhattidev)
 
 </div>
 
